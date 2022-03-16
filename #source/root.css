@@ -1,0 +1,7 @@
+:root{
+	--base-color:rgba(37, 37, 37, 0.6);
+	--dark-grey:rgba(37, 37, 37, 0.7);
+	--black:rgba(37, 37, 37, 1);
+	--white:rgba(255, 255, 255, 1);
+	--blue:rgba(30, 136, 229, 1);
+}
